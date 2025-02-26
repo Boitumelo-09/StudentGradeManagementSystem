@@ -50,9 +50,7 @@ int main(){
                  break; 
                 }
                 
-          }
- 
-                       
+          }                 
        }
       system("cls");
       printf("________________________________________\n");
@@ -232,8 +230,7 @@ int main(){
                       
                    default:
                     break;
-                   }
-                         
+                   }                     
   system("pause>0");
 }
   
